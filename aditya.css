@@ -1,0 +1,29 @@
+button {
+    background-color: #E9C891;
+    border: 3px solid #E9C891;
+    border-radius: 9px;
+    font-size: 18px;
+}
+button:hover {
+    background-color: #F9CF93;
+
+   
+}
+
+body {
+    
+    
+}
+hr {
+    border-top: 10px solid #E8E1D9;
+    
+  }
+.contact{
+margin-left: 30px;
+ } 
+ .project{
+     margin-left: 30px;
+ }
+ .image{
+     border-radius: 5px rgb(194, 36, 36);
+ }
